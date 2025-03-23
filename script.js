@@ -1,4 +1,5 @@
-                                                          //fonction qui inverse une chaine donnee
+alert('Bienvenu cher tous')
+                                                      //fonction qui inverse une chaine donnee
 function InverserChaine(str) {
   return str.split("").reverse().join("");
 }
